@@ -8,15 +8,22 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación,invitando a contactar...
 
-<<<<<<< HEAD
+## Skills
+
+- Coaching
+
+## Hobbies
+
+- Dancing
+
+## Technologies
+
+- HTML
+- CSS
+- JS
+
 ## Languages
 
 - English
 - Spanish
 - Portuguese
-=======
-## Hobbies
-
-- Dancing
->>>>>>> technologies
-
