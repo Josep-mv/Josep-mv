@@ -8,9 +8,6 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación,invitando a contactar...
 
-
-
-
 ## Skills
 
 - Coaching
@@ -18,3 +15,9 @@ Hacer el cierre de la presentación,invitando a contactar...
 ## Hobbies
 
 - Dancing
+
+## Technologies
+
+- HTML
+- CSS
+- JS
