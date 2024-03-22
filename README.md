@@ -8,9 +8,15 @@ Escribir sobre nosotros...
 
 Hacer el cierre de la presentación,invitando a contactar...
 
+<<<<<<< HEAD
 ## Languages
 
 - English
 - Spanish
 - Portuguese
+=======
+## Hobbies
+
+- Dancing
+>>>>>>> technologies
 
