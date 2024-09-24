@@ -2,7 +2,9 @@
 
 ## About me
 
-Escribir sobre nosotros...
+Ingeniero de software en progreso.
+Bootcamp culminado en FullStack
+Bootcamp culminado en Backend
 
 ## Contact me
 
@@ -13,17 +15,17 @@ Hacer el cierre de la presentación,invitando a contactar...
 - HTML
 - CSS
 - JS
+- JAVA
 
 ## Skills
 
-- Coaching
+- Coding
 
 ## Hobbies
 
-- Dancing
+- Skate
 
 ## Languages
 
 - English
 - Spanish
-- Portuguese
